@@ -1,6 +1,6 @@
 # Transaction Information
 
-**Request **
+**Request**
 
  
 
