@@ -28,17 +28,17 @@ domain name: api.cointiger.com
 Public API interface suitable for coinTiger.com
 ```
 
-- [K Line Information](/cointiger/api-docs/wiki/Public-K线行情)
+- [K Line Information](/cointiger/api-docs/wiki/Public-K-Line-Information)
 
-- [The Lastest 24 Hours Price](/cointiger/api-docs/wiki/Public-前24小时行情)
+- [The Lastest 24 Hours Price](/cointiger/api-docs/wiki/Public-The-Lastest-24-Hours-Price)
 
-- [Transaction Information](/cointiger/api-docs/wiki/Public-实时成交信息)
+- [Transaction Information](/cointiger/api-docs/wiki/Public-Transaction-Information)
 
-- [Volume Depth](/cointiger/api-docs/wiki/Public-深度盘口)
+- [Volume Depth](/cointiger/api-docs/wiki/Public-Volume-Depth)
 
-- [K Line History Data](/cointiger/api-docs/wiki/Public-K线历史数据)
+- [K Line History Data](/cointiger/api-docs/wiki/Public-K-Line-History-Data)
 
-- [Transaction History Data](/cointiger/api-docs/wiki/Public-成交历史数据)
+- [Transaction History Data](/cointiger/api-docs/wiki/Public-Transaction-History-Data)
 
 ### 三、Trading API Interface（https）
 
@@ -47,14 +47,14 @@ Trading API interface suitable for coinTiger.com
 ```
 - [API Sign Rules](/cointiger/api-docs/wiki/Trading-API-Sign-Rules)
 
-- [Create Order](/cointiger/api-docs/wiki/Trading-创建订单)
+- [Create Order](/cointiger/api-docs/wiki/Trading-Create-Order)
 
-- [Get The Current Commission](/cointiger/api-docs/wiki/Trading-获取当前委托)
+- [Get The Current Commission](/cointiger/api-docs/wiki/Trading-Get-The-Current-Commission)
 
-- [Cancel Order](/cointiger/api-docs/wiki/Trading-取消订单)
+- [Cancel Order](/cointiger/api-docs/wiki/Trading-Cancel-Order)
 
-- [Get The History Commissioned](/cointiger/api-docs/wiki/Trading-获取历史委托)
+- [Get The History Commissioned](/cointiger/api-docs/wiki/Trading-Get-The-History-Commissioned)
 
-- [Get The Transaction Record](/cointiger/api-docs/wiki/Trading-获取成交记录)
+- [Get The Transaction Record](/cointiger/api-docs/wiki/Trading-Get-The-Transaction-Record)
 
 - [Get The  Fund  Information](/cointiger/api-docs/wiki/Trading-获取资金状况)
