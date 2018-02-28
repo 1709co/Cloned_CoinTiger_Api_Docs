@@ -57,4 +57,4 @@ Trading API interface suitable for coinTiger.com
 
 - [Get The Transaction Record](/cointiger/api-docs/wiki/Trading-Get-The-Transaction-Record)
 
-- [Get The  Fund  Information](/cointiger/api-docs/wiki/Trading-获取资金状况)
+- [Get The  Fund  Information](/cointiger/api-docs/wiki/Trading-Get-The-Fund-Information)
