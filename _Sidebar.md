@@ -2,7 +2,7 @@
 
 
 ```
-Public API interface suitable for coinTiger.com
+Suitable for cointiger.com
 ```
 
 - [K Line Information](/cointiger/api-docs/wiki/Public-K-Line-Information)
@@ -20,7 +20,7 @@ Public API interface suitable for coinTiger.com
 ### Trading API Interface（https）
 
 ```
-Trading API interface suitable for coinTiger.com
+Suitable for cointiger.com
 ```
 - [API Sign Rules](/cointiger/api-docs/wiki/Trading-API-Sign-Rules)
 
