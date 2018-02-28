@@ -45,6 +45,7 @@ Public API interface suitable for coinTiger.com
 ```
 Trading API interface suitable for coinTiger.com
 ```
+- [API Sign Rules](/cointiger/api-docs/wiki/Trading-API-Sign-Rules)
 
 - [Create Order](/cointiger/api-docs/wiki/Trading-创建订单)
 
