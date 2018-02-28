@@ -23,7 +23,7 @@ Tips: CoinTiger API is the phase of testing, If client want to connect with API,
   Language : such as zh_CN,en_US
 
 
-## 二、Public API Interface(Websocket)
+## 二、Public API Interface (Websocket)
 
 
 ```
