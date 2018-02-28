@@ -4,6 +4,7 @@
 ```
 Suitable for cointiger.com
 ```
+- [Request And Subscription Instructions](/cointiger/api-docs-en/wiki/Public-Request-And-Subscription-Instructions)
 
 - [K Line Information](/cointiger/api-docs-en/wiki/Public-K-Line-Information)
 
