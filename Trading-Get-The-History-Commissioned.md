@@ -34,32 +34,32 @@
 	"volume": {
 		"amount": "1.000",
 		"icon": "",
-		"title": "The quantity in the commission"
+		"title": "volume"
 	          },
 	"age_price": {
 		"amount": "0.00000000",
 		"icon": "",
-		"title": "Average transaction price"
+		"title": "Avg price"
 	             },
 	"side": "BUY",
 	"price": {
 		"amount": "0.04478883",
 		"icon": "",
-		"title": "委托价格"
+		"title": "price"
 	         },
 	"created_at": 1513415184838,
 	"deal_volume": {
 		"amount": "0.00000000",
 		"icon": "",
-		"title": "Volume"
+		"title": "Deal volume"
 	               },
 	"id": 196,
 	"label": {
 		"go": "trade",
-		"title": "done",
+		"title": "Traded",
 		"click": 1
 	         },
-	"side_msg": "buy"
+	"side_msg": "Buy"
 }
 
 ```
