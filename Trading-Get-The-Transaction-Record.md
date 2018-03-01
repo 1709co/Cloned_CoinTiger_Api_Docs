@@ -32,18 +32,18 @@
 	"volume": {
 		"amount": "1.000",
 		"icon": "",
-		"title": "成交量"
+		"title": "Deal volume"
 	          },
 	"price": {
 		"amount": "0.04978883",
 		"icon": "",
-		"title": "委托价格"
+		"title": "price"
 	         },
 	"created_at": 1513245134000,
 	"deal_price": {
 		"amount": 0.04978883000000000000000000000000,
 		"icon": "",
-		"title": "成交价格"
+		"title": "Deal price"
 	              },
 	"id": 138
 }
