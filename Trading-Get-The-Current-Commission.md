@@ -32,26 +32,26 @@
 	"volume": {
 		"amount": "1.000",
 		"icon": "",
-		"title": "The quantity in the commission"
+		"title": "volume"
 	          },
 	"side": "BUY",
 	"price": {
 		"amount": "0.04478883",
 		"icon": "",
-		"title": "Commissioned price"
+		"title": "price"
 	         },
 	"created_at": 1513415184838,
 	"id": 196,
 	"label": {
-		"title": "cancel order",
+		"title": "Cancel",
 		"click": 1
 	         },
 	"remain_volume": {
 		"amount": "1.00000000",
 		"icon": "",
-		"title": "Not completed"
+		"title": "Remain volume"
 	        },
-	"side_msg": "buy"
+	"side_msg": "Buy"
 }
 
 ```
