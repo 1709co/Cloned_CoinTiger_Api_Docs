@@ -46,7 +46,7 @@ Public API interface suitable for coinTiger.com
 ### 三、Trading API Interface（https）
 
 ```
-Trading API interface suitable for coinTiger.com
+Trading API interface suitable for coinTiger.com (The number of API calls is limited to 6 times per second)
 ```
 - [API Sign Rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules)
 
