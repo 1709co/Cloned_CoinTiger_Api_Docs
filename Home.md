@@ -12,7 +12,10 @@ Tips: CoinTiger API is the phase of testing, If client want to connect with API,
 ```
    https://api.cointiger.com/exchange/trading/api
 ```
-
+  **Market rest api**  
+```
+   https://api.cointiger.com/api/
+```
  **wss api**<br/>
 ```
    wss://api.cointiger.com/exchange-market/ws
@@ -61,3 +64,15 @@ Trading API interface suitable for coinTiger.com (The number of API calls is lim
 - [Get The Transaction Record](/cointiger/api-docs-en/wiki/Trading-Get-The-Transaction-Record)
 
 - [Get The  Fund  Information](/cointiger/api-docs-en/wiki/Trading-Get-The-Fund-Information)
+
+### 四、Market API Interface (REST)
+```
+适用于CoinTiger.com
+```
+- [The Lastest 24 Hours Price](/cointiger/api-docs/wiki/REST-前24小时行情)
+
+- [Volume Depth](/cointiger/api-docs/wiki/REST-深度盘口)
+
+- [K Line History Data](/cointiger/api-docs/wiki/REST-K线历史数据)
+
+- [Transaction History Data](/cointiger/api-docs/wiki/REST-成交历史数据)
