@@ -18,6 +18,18 @@ request parameters:
 | symbol          | true             | String  |                   trading pairs                    |          | tchbtc, ethbtc,btcbitcny,eosbtc |
 | size            | false            | Integer |                   obtain amount                    |    1     | [1,2000]                        |
 
+
+
+
+
+request parameters:
+
+| parameters name | necessary or not |  type    |       description     | defaults | ranges                 |
+| :------- | -------- | :-----: | :---------------: | :----: | :------------------------------ |
+| api_key  | true     | String  | api keyapi key api key distributed by the platform |        |                                 |
+| symbol   | true     | String  |      trading pairs     |        | tchbtc, ethbtc,btcbitcny,eosbtc |
+| size     | false    | Integer |     obtain amount  |   1    | [1,2000]                        |
+
 ------
 
 response data:
@@ -87,28 +99,28 @@ request response case：
 /* GET /api/market/history/trade?api_key=110311001&symbol=btcbitcny&size=200
 {
     "code": "2",
-    "msg": "您已超出API调用次数限制",you have exceeded  the limit times of calling api
+    "msg": you have exceeded  the limit times of calling api",
     "data": null
 }
 
 /* GET /api/market/history/trade?api_key=not-exist&symbol=btcbitcny&size=200
 {
     "code": "2",
-    "msg": "api_key 不能为空",api_key can not be air
+    "msg": "api_key can not be air",
     "data": null
 }
 
 /* GET /api/market/history/trade?api_key=110311001&symbol=not-exist&size=200
 {
     "code": "2",
-    "msg": "symbol 不能为空",symbol can not be air
+    "msg": "symbol can not be air",
     "data": null
 }
 
 /* GET /api/market/history/trade?api_key=110311001&symbol=not-exist&size=not-exist
 {
     "code": "2",
-    "msg": "size 请求参数不合法", //参数范围: [1,2000]
+    "msg": "the request parameters are illegal", //the ranges of parameters: [1,2000]
     "data": null
 }
 
