@@ -75,4 +75,4 @@ Trading API interface suitable for coinTiger.com (The number of API calls is lim
 
 - [K Line History Data](/cointiger/api-docs-en/wiki/REST-k-line-history-data)
 
-- [Transaction History Data](/api-docs-en/wiki/REST-transaction-history-data)
+- [Transaction History Data](/cointiger/api-docs-en/wiki/REST-transaction-history-data)
