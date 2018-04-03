@@ -36,3 +36,15 @@ Suitable for cointiger.com
 - [Get The Transaction Record](/cointiger/api-docs-en/wiki/Trading-Get-The-Transaction-Record)
 
 - [Get The  Fund  Information](/cointiger/api-docs-en/wiki/Trading-Get-The-Fund-Information)
+
+### Market API Interface (REST)
+```
+Suitable for cointiger.com
+```
+- [The Lastest 24 Hours Price](/cointiger/api-docs-en/wiki/REST-market-price-lastest-24hours)
+
+- [Volume Depth](/cointiger/api-docs-en/wiki/REST-volume-depth)
+
+- [K Line History Data](/cointiger/api-docs-en/wiki/REST-k-line-history-data)
+
+- [Transaction History Data](/cointiger/api-docs-en/wiki/REST-transaction-history-data)
