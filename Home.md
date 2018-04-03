@@ -69,10 +69,10 @@ Trading API interface suitable for coinTiger.com (The number of API calls is lim
 ```
 适用于CoinTiger.com
 ```
-- [The Lastest 24 Hours Price](/cointiger/api-docs/wiki/REST-前24小时行情)
+- [The Lastest 24 Hours Price](/cointiger/api-docs-en/wiki/REST-market-price-lastest-24hours)
 
-- [Volume Depth](/cointiger/api-docs/wiki/REST-深度盘口)
+- [Volume Depth](/cointiger/api-docs-en/wiki/REST-volume-depth)
 
-- [K Line History Data](/cointiger/api-docs/wiki/REST-K线历史数据)
+- [K Line History Data](/cointiger/api-docs-en/wiki/REST-k-line-history-data)
 
-- [Transaction History Data](/cointiger/api-docs/wiki/REST-成交历史数据)
+- [Transaction History Data](/api-docs-en/wiki/REST-transaction-history-data)
