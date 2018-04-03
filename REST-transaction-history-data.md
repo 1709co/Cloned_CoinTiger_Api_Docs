@@ -1,4 +1,4 @@
-# [transaction history data]()
+﻿# [transaction history data]()
 
 #### [GET /market/history/trade  ]()
 
@@ -8,7 +8,22 @@ exchange $symbol$ for tch, btc eth btc
 
 ------
 
+
+
 request parameters:
+
+| parameters name | necessary or not |  type   |                    description                     | defaults | ranges                          |
+| :-------------- | ---------------- | :-----: | :------------------------------------------------: | :------: | :------------------------------ |
+| api_key         | true             | String  | api keyapi key api key distributed by the platform |          |                                 |
+| symbol          | true             | String  |                   trading pairs                    |          | tchbtc, ethbtc,btcbitcny,eosbtc |
+| size            | false            | Integer |                   obtain amount                    |    1     | [1,2000]                        |
+
+
+
+
+
+request parameters:
+
 | parameters name | necessary or not |  type    |       description     | defaults | ranges                 |
 | :------- | -------- | :-----: | :---------------: | :----: | :------------------------------ |
 | api_key  | true     | String  | api keyapi key api key distributed by the platform |        |                                 |
