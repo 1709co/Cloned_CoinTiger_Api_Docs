@@ -4,7 +4,7 @@ Support all trading pairs on the CoinTiger exchange platform
 
 domain name: api.cointiger.com
 
-Tips: CoinTiger API is the phase of testing, If client want to connect with API, please send email with the username and contact ways to  support@cointiger.com
+Tips: CoinTiger API ：Official website - Personal account - API control - Apply
 
 ## 一、API request address
 
