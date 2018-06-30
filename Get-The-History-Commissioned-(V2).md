@@ -1,4 +1,4 @@
-GET {Trading_Macro_v2}/order/orders  （query for the current commission, history commision
+GET {Trading_Macro_v2}/order/orders  （query for the current commission, history commision)
 
 Request parameters
 
