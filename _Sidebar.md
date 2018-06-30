@@ -23,6 +23,7 @@ Suitable for cointiger.com
 - [API Sign Rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules)
 - [batch cancel order](/cointiger/api-docs-en/wiki/batch-cancel-order（V2）)
 - [check the transaction details of order](/cointiger/api-docs-en/wiki/check-the-transaction-details-of-order-(V2))
+- [create_order](/cointiger/api-docs-en/wiki/Create-Order-(V2))
 
 ### Trading API Interface（https）
 
