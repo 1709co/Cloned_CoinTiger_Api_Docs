@@ -5,18 +5,23 @@
 Suitable for cointiger.com
 ```
 - [Request And Subscription Instructions](/cointiger/api-docs-en/wiki/Public-Request-And-Subscription-Instructions)
-
 - [K Line Information](/cointiger/api-docs-en/wiki/Public-K-Line-Information)
-
 - [The Lastest 24 Hours Price](/cointiger/api-docs-en/wiki/Public-The-Lastest-24-Hours-Price)
-
 - [Transaction Information](/cointiger/api-docs-en/wiki/Public-Transaction-Information)
-
 - [Volume Depth](/cointiger/api-docs-en/wiki/Public-Volume-Depth)
-
 - [K Line History Data](/cointiger/api-docs-en/wiki/Public-K-Line-History-Data)
-
 - [Transaction History Data](/cointiger/api-docs-en/wiki/Public-Transaction-History-Data)
+
+
+
+### Trading V2 API Interface（https）
+
+```
+Suitable for cointiger.com
+```
+
+- [API Sign Rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules)
+- [batch cancel order](cointiger/api-docs-en/wiki/batch-cancel-order（V2）
 
 ### Trading API Interface（https）
 
