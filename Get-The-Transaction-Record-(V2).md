@@ -1,6 +1,4 @@
-GET {Trading_Macro_v2}/order/match_results （query for the current trasaction , history transaction ）
 
-Request parameters
 
   parameter subject	must or not	type  	describtion                        	defaults                     	ranges                                  
   api_key          	true       	string	platform allocated api key         	                             	                                        
