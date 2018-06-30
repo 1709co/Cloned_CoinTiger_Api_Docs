@@ -24,6 +24,9 @@ Suitable for cointiger.com
 - [batch cancel order](/cointiger/api-docs-en/wiki/batch-cancel-order（V2）)
 - [check the transaction details of order](/cointiger/api-docs-en/wiki/check-the-transaction-details-of-order-(V2))
 - [create_order](/cointiger/api-docs-en/wiki/Create-Order-(V2))
+- [Transaction Record](/cointiger/api-docs-en/wiki/Get-The-Transaction-Record-(V2))
+- [history commision](/cointiger/api-docs-en/wiki/query-for-the-current-commission,-history-commision-(V2))
+- [currencys](/cointiger/api-docs-en/wiki/currencys-（V2）)
 
 ### Trading API Interface（https）
 
