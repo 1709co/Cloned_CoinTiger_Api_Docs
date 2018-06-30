@@ -21,7 +21,7 @@ Suitable for cointiger.com
 ```
 
 - [API Sign Rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules)
-- [batch cancel order](cointiger/api-docs-en/wiki/batch-cancel-order（V2）)
+- [batch cancel order](/cointiger/api-docs-en/wiki/batch-cancel-order（V2）)
 
 ### Trading API Interface（https）
 
