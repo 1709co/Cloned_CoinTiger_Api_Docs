@@ -1,5 +1,6 @@
-﻿#### POST {Trading_Macro_v2}/order/batchcancel （cancel ID）
+﻿#### POST {Trading_Macro_v2}/order/batchcancel
 Request parameters
+
 | parameter subject | must or not | type | describtion | defaults | ranges       |
 | ----------- | -------- | ------ | -------------- | ------ | -------------------- |
 | orderIdList | true     | list   | cancel order ID |        | maximum50 order |
