@@ -1,5 +1,3 @@
-﻿- # HOME
-
  **support all trading pairs in CoinTiger** 
 
  **api.cointiger.com  domain name:api.cointiger.com**
