@@ -1,4 +1,4 @@
-#### GET https://www.cointiger.com/exchange/api/public/market/detail ]
+#### GET https://www.cointiger.com/exchange/api/public/market/detail
 
 
 
