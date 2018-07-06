@@ -24,7 +24,7 @@
   ##### Market  detail api  (Applicable to market display platform)
 
   ```
-  	https://www.cointiger.com/exchange/api/public/market/detail (get)：
+     https://www.cointiger.com/exchange/api/public/market/detail (get)：
   ```
 
   **wss api**
