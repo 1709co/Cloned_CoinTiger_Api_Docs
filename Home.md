@@ -30,7 +30,7 @@
   **wss api**
 
   ```
-  	wss://api.cointiger.com/exchange-market/ws
+     wss://api.cointiger.com/exchange-market/ws
   ```
 
     注： Must carry parameters
