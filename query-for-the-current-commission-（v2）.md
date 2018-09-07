@@ -1,4 +1,4 @@
-﻿#### GET {Trading_Macro_v2}/order/now（query for the current commission）
+GET {Trading_Macro_v2}/order/now（query for the current commission）
 Request parameters
 | parameter subject | must or not | type   | describtion                                                  | defaults                                      | ranges                             |
 | ----------------- | ----------- | ------ | ------------------------------------------------------------ | --------------------------------------------- | ---------------------------------- |
