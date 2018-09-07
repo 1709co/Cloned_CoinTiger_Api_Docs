@@ -11,9 +11,3 @@ Request parameters
 | time              | true        | string | current timestamp                                            |                                               |                                    |
 
 
-request parameters：example  (can not be used directly, need to replace your own parameters)
-
-```
-GET https://api.cointiger.com/exchange/trading/api/v2/order/now?api_key=c9a97adf-7909-444a-bf9e1471210c4777&symbol=ethbtc&direct=prev&from=4887374&states=filled,part_filled,pending_cancel&size=10&sign=b84ceabfbe5c9975fde698279ab90cf6a9b39eae6fe0951455d748428b95345eb0a9d41075c5e7d66061e29fc2064c62ccd98a93fa7b885fa965c9e10fbdee99&types=buy-market&time=1525515995127
-```
-
