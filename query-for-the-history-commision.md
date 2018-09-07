@@ -1,5 +1,4 @@
-GET {Trading_Macro_v2}/order/history（query for the history commision）
-Request parameters
+
 
   parameter subject	must or not	type  	describtion                             	defaults                                	ranges                           
   symbol           	true       	string	trading pairs                           	                                        	btcbitcny, bchbtc, eoseth ...    
