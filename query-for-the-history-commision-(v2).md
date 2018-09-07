@@ -36,6 +36,7 @@ Response Data
 | symbol | true | string | trading pairs | btcbitcny, eoseth, ethbtc ... |
 | ctime | true | string | create order time |  |
 | mtime | true | string | last deal |  |
+
 example:
 
 ```
