@@ -58,3 +58,5 @@ Suitable for cointiger.com
 - [K Line History Data](/cointiger/api-docs-en/wiki/REST-k-line-history-data)
 
 - [Transaction History Data](/cointiger/api-docs-en/wiki/REST-transaction-history-data)
+
+- [The Lastest 24 Hours Price(Applicable for the market price display)](/cointiger/api-docs-en/wiki/market-price-lastest-24hours-（Applicable-for-the-market-price-display）)
