@@ -1,3 +1,5 @@
+前24小时行情
+
 GET https://www.cointiger.com/exchange/api/public/market/detail 
 
 
