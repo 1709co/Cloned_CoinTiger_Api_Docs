@@ -65,7 +65,7 @@ For every IP, API's access limit is 6times/second.
 ```
 
  Private Trading APi needs to do the sigh verification ,and Public Api do not.  
- [Private Trading API sign rules]() 
+ [Private Trading API sign rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules) 
 
 Websocket：
 
@@ -73,9 +73,9 @@ Request and subscription introduction
 
 API list
 
-• [REST Api]()
+• [REST Api](/cointiger/api-docs-en/wiki/REST-Api-List)
 
-• [Websocket Api]()
+• [Websocket Api](/cointiger/api-docs-en/wiki/Websocket-Api-List)
 
 API community 
 
