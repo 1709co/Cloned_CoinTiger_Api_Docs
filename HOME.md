@@ -87,6 +87,6 @@ API demo
 
 2. Go : https://github.com/cointiger/CoinTiger_SDK_Golang
 
-3. NodeJs : https://github.com/cointiger/CoinTiger_SDK_JAVA
+3. Java : https://github.com/cointiger/CoinTiger_SDK_JAVA
 
 4. C# : https://github.com/cointiger/CoinTiger_SDK_CSharp 
