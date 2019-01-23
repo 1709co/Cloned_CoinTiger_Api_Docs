@@ -30,4 +30,4 @@ Uses need to sign with API KEY and API Secret applied on CoinTiger, when using P
 | Check orders information                                    | GET {Trading_Macro_v2}/order/details       | [Check](/cointiger/api-docs-en/wiki/check-the-transaction-details-of-order-(V2)) |
 | Check balance                                               | GET {Trading_Macro}/api/user/balance       | [Check](/cointiger/api-docs-en/wiki/Trading-Get-The-Fund-Information) |
 
-Private Trading used to be updated, the new vision of [Private Trading Api]() could  Compatible with older versions, new users could use new version directly.  Users who used older version could check through clicking [Private Trading API]() old version
+Private Trading used to be updated, the new vision of [Private Trading Api](/cointiger/api-docs-en/wiki/REST-Api-List) could  Compatible with older versions, new users could use new version directly.  Users who used older version could check through clicking [Private Trading API](/cointiger/api-docs-en/wiki/Private-Trading-Api-history-version) old version
