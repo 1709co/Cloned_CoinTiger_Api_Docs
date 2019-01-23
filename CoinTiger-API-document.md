@@ -4,14 +4,14 @@
 
 CoinTiger provides stable and secure APIs. You can get the latest market data and trade via the APIs. Your trade-bot can run your algorithms to arbitrage or hedge. Now there are hundreds of algorithms in CoinTiger working safely.
 
-#### API请求地址
+#### API Request Address
 
-| 请求类型  | 访问地址                                                     | 适用功能   |
-| --------- | ------------------------------------------------------------ | ---------- |
-| https     | Trading_Macro_v2 = https://api.cointiger.pro/exchange/trading/api/v2 | 交易新版本 |
-| https     | Trading_Macro = https://api.cointiger.pro/exchange/trading   | 交易老版本 |
-| https     | Market_Macro = https://api.cointiger.pro/exchange/trading/api/market | 行情       |
-| websocket | wss://api.cointiger.pro/exchange-market/ws                   |            |
+| Request type | Request address                                              | foundation                 |
+| ------------ | ------------------------------------------------------------ | -------------------------- |
+| https        | Trading_Macro_v2 = https://api.cointiger.pro/exchange/trading/api/v2 | new verision of trading    |
+| https        | Trading_Macro = https://api.cointiger.pro/exchange/trading   | history version of trading |
+| https        | Market_Macro = https://api.cointiger.pro/exchange/trading/api/market | market information         |
+| websocket    | wss://api.cointiger.pro/exchange-market/ws                   |                            |
 
 #### Create API key 
 
@@ -58,34 +58,32 @@ For every IP, API's access limit is 6times/second.
 ​           Rest require header must carry parameter, and meet RFC criterion, for example:
 
 ```
-	Language:zh_CN
-	User-Agent:
-        Mozilla/5.0(Macintosh;U;IntelMacOSX10_6_8;en-us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1Safari/534.50
-	Referer:https://api.cointiger.com
+                  Language : zh_CN
+                  User-Agent : Mozilla/5.0(Macintosh;U;IntelMacOSX10_6_8;en-
+                               us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1Safari/534.50
+                  Referer : https://api.cointiger.com
 ```
 
  Private Trading APi needs to do the sigh verification ,and Public Api do not.  
  [Private Trading API sign rules]() 
 
-​	Websocket：
+Websocket：
 
-请求与订阅说明； Request and subscription introduction 
+Request and subscription introduction 
 
-API列表 API list
+API list
 
-• REST Api
+• [REST Api]()
 
-• Websocket Api
+• [Websocket Api]()
 
- 
+API community 
 
-API社群 API community 
-
-欢迎加入CoinTiger API电报群 <https://t.me/CoinTigerAPI>
+Welcome to CoinTiger API Telegram Group  <https://t.me/CoinTigerAPI>
 
  
 
-API示例 API demo
+API demo
 
 1. Python : https://github.com/cointiger/CoinTiger_SDK_Python
 
