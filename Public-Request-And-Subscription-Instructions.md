@@ -1,7 +1,3 @@
-# Request and subscription instructions
-
-
-
 ### 1. Address
 
 ```
