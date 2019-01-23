@@ -1,5 +1,3 @@
-## REST Api List
-
 There are two limits of authority of REST API,  market information and transaction information
 
 ### Public API
