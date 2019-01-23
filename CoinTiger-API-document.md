@@ -59,7 +59,8 @@ For every IP, API's access limit is 6times/second.
 
 ```
 	Language:zh_CN
-	User-Agent:Mozilla/5.0(Macintosh;U;IntelMacOSX10_6_8;en-	  us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1Safari/534.50
+	User-Agent:
+        Mozilla/5.0(Macintosh;U;IntelMacOSX10_6_8;en-us)AppleWebKit/534.50(KHTML,likeGecko)Version/5.1Safari/534.50
 	Referer:https://api.cointiger.com
 ```
 
