@@ -51,7 +51,7 @@ For every IP, API's access limit is 6times/second.
 
 ##### • Sign Verification
 
-​	REST：	
+​	**REST**：	
 
 ​           Rest require header must carry parameter, and meet RFC criterion, for example:
 
@@ -65,7 +65,7 @@ For every IP, API's access limit is 6times/second.
  Private Trading APi needs to do the sigh verification ,and Public Api do not.  
  [Private Trading API sign rules](/cointiger/api-docs-en/wiki/Trading-API-Sign-Rules) 
 
-Websocket：
+**Websocket**：
 
 Request and subscription introduction 
 
@@ -75,13 +75,13 @@ API list
 
 • [Websocket Api](/cointiger/api-docs-en/wiki/Websocket-Api-List)
 
-API community 
+**API community** 
 
 Welcome to CoinTiger API Telegram Group  <https://t.me/CoinTigerAPI>
 
  
 
-API demo
+**API demo**
 
 1. Python : https://github.com/cointiger/CoinTiger_SDK_Python
 
