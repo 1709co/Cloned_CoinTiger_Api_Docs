@@ -9,7 +9,7 @@ CoinTiger provides stable and secure APIs. You can get the latest market data an
 | https        | Trading_Macro_v2 = https://api.cointiger.com/exchange/trading/api/v2 | new verision of trading    |
 | https        | Trading_Macro = https://api.cointiger.com/exchange/trading   | history version of trading |
 | https        | Market_Macro = https://api.cointiger.com/exchange/trading/api/market | market information         |
-| websocket    | wss://api.cointiger.pro/exchange-market/ws                   |                            |
+| websocket    | wss://api.cointiger.com/exchange-market/ws                   |                            |
 
 #### Create API key 
 
