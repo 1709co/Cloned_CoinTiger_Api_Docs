@@ -47,7 +47,7 @@ For every IP, API's access limit is 6times/second.
 
 ##### • BaseURL
 
-​     api.cointiger.com，Standby domain name:api.cointiger.pro 
+​     api.cointiger.com，Standby domain name:api.cointiger.pro (we suggest you to create two domain name switching function)
 
 ##### • Sign Verification
 
