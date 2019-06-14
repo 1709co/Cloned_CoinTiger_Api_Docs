@@ -6,7 +6,8 @@ Users could require latest market information through Public API. Public API is 
 
 | Function                                                     | API                                                          | Details                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Require all transaction information                          | GET {Trading_Macro_v2}/currencys                             | [Check](/cointiger/api-docs-en/wiki/currencys-（V2）)        |
+| Require all transaction information                          | GET {Trading_Macro_v2}/currencys/v2                          | [Check](/CoinTiger/api-docs-en/wiki/currencys-（V2）)        |
+| Require all transaction information(not recommend)           | GET {Trading_Macro_v2}/currencys                             | [Check](/CoinTiger/api-docs-en/wiki/currencys)               |
 | Check current system time                                    | GET {Trading_Macro_v2}/timestamp                             | [Check](/cointiger/api-docs-en/wiki/query-the-current-time-of-the-system) |
 | Require latest 24 hours market information of all coins      | GET [https://www.cointiger.com/exchange/api/public/market/detail](https://github.com/cointiger/api-docs-en/wiki/market-price-lastest-24hours-%EF%BC%88Applicable-for-the-market-price-display%EF%BC%89) | [Check](/cointiger/api-docs-en/wiki/market-price-lastest-24hours-（Applicable-for-the-market-price-display）) |
 | Require latest 24 hours market information of single trading pair | GET {Market_Macro}/market/detail                             | [Check](/cointiger/api-docs-en/wiki/REST-market-price-lastest-24hours) |
