@@ -23,7 +23,7 @@ Response example
                 "quoteCurrency": "bitcny", // quote currency
                 "pricePrecision": 2,       // digit of price accuracy (0 as :the unit)
                 "amountPrecision": 4,      // digit of amount accuracy (0 as :the unit)
-                "amountMin": 0.0010        // 最小交易数量
+                "amountMin": 0.0010        // Minimum order quantity
                 "withdrawFeeMin": 0.0005,  // the minimum withdrawal fees.
                 "withdrawFeeMax": 0.005,   // the maximum withdrawal fees.   
                 "withdrawOneMin": 0.01,    // the minimum limit of withdrawal fees
