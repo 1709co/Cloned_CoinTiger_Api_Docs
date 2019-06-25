@@ -12,34 +12,21 @@ exchange $symbol$ for tch, btc eth btc
 
 request parameters:
 
-| parameters name | necessary or not |  type   |                    description                     | defaults | ranges                          |
-| :-------------- | ---------------- | :-----: | :------------------------------------------------: | :------: | :------------------------------ |
-| api_key         | true             | String  | api keyapi key api key distributed by the platform |          |                                 |
-| symbol          | true             | String  |                   trading pairs                    |          | tchbtc, ethbtc,btcbitcny,eosbtc |
-| size            | false            | Integer |                   obtain amount                    |    1     | [1,2000]                        |
-
-
-
-
-
-request parameters:
-
-| parameters name | necessary or not |  type    |       description     | defaults | ranges                 |
-| :------- | -------- | :-----: | :---------------: | :----: | :------------------------------ |
-| api_key  | true     | String  | api keyapi key api key distributed by the platform |        |                                 |
-| symbol   | true     | String  |      trading pairs     |        | tchbtc, ethbtc,btcbitcny,eosbtc |
-| size     | false    | Integer |     obtain amount  |   1    | [1,2000]                        |
+| parameters name | necessary or not |  type   |  description  | defaults | ranges                          |
+| :-------------- | ---------------- | :-----: | :-----------: | :------: | :------------------------------ |
+| symbol          | true             | String  | trading pairs |          | tchbtc, ethbtc,btcbitcny,eosbtc |
+| size            | false            | Integer | obtain amount |    1     | [1,2000]                        |
 
 ------
 
 response data:
 
-| parameters name | necessary or not |  type   |                             descroption                    | ranges              |
-| :------: | :------: | :-----: | :----------------------------------------------------------: | --------------------------- |
-|   code   |   true   | String  |                         request processing status                       | represent sucess and any others represent error |
-|   msg    |   true   | String  |                    specific error description or success decription                   |                             |
-|    ch    |   true   | String  | the channel which data belongs to.   format：market.$symbol$.trade.detail<br /> |                          |
-| size | true | Integer | obtain amount |  |
+| parameters name | necessary or not |  type   |                         descroption                          | ranges                                          |
+| :-------------: | :--------------: | :-----: | :----------------------------------------------------------: | ----------------------------------------------- |
+|      code       |       true       | String  |                  request processing status                   | represent sucess and any others represent error |
+|       msg       |       true       | String  |       specific error description or success decription       |                                                 |
+|       ch        |       true       | String  | the channel which data belongs to.   format：market.$symbol$.trade.detail<br /> |                                                 |
+|      size       |       true       | Integer |                        obtain amount                         |                                                 |
 ------
 
 data instruction:
@@ -66,7 +53,7 @@ request response case：
 
 
 ```
-/* GET /api/market/history/trade?api_key=100310001&symbol=btcbitcny&size=200
+/* GET /api/market/history/trade?symbol=btcbitcny&size=200
 {
     "code": "0",
     "msg": "suc",
@@ -96,28 +83,21 @@ request response case：
     }
 }
 
-/* GET /api/market/history/trade?api_key=110311001&symbol=btcbitcny&size=200
+/* GET /api/market/history/trade?symbol=btcbitcny&size=200
 {
     "code": "2",
     "msg": you have exceeded  the limit times of calling api",
     "data": null
 }
 
-/* GET /api/market/history/trade?api_key=not-exist&symbol=btcbitcny&size=200
-{
-    "code": "2",
-    "msg": "api_key can not be air",
-    "data": null
-}
-
-/* GET /api/market/history/trade?api_key=110311001&symbol=not-exist&size=200
+/* GET /api/market/history/trade?symbol=not-exist&size=200
 {
     "code": "2",
     "msg": "symbol can not be air",
     "data": null
 }
 
-/* GET /api/market/history/trade?api_key=110311001&symbol=not-exist&size=not-exist
+/* GET /api/market/history/trade?symbol=not-exist&size=not-exist
 {
     "code": "2",
     "msg": "the request parameters are illegal", //the ranges of parameters: [1,2000]
@@ -125,4 +105,3 @@ request response case：
 }
 
 ```
-
