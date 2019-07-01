@@ -5,7 +5,7 @@ Users could use Public API to require the latest market information. Public Api 
 | Foundation                                                   | Details                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Require latest 24 hours market information of specific trading pairs | [check](/cointiger/api-docs-en/wiki/Public-The-Lastest-24-Hours-Price) |
-| Require ask/bid orders information                           | [check](/cointiger/api-docs-en/wiki/Public-Volume-Depth)     |
+| Require ask/buy orders information                           | [check](/cointiger/api-docs-en/wiki/Public-Volume-Depth)     |
 | Require real time data of K line                             | [check](/cointiger/api-docs-en/wiki/Public-K-Line-Information) |
 | Require history data of K line                               | [check](/cointiger/api-docs-en/wiki/Public-K-Line-History-Data) |
 | Require latest transaction data                              | [check](/cointiger/api-docs-en/wiki/Public-Transaction-Information) |
