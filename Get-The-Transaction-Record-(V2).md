@@ -15,7 +15,7 @@ Request parameters
 request parameters：example (can not be used directly, need to replace your own parameters)
 
 ```
-GET https://api.cointiger.com/api/v2/order/match_results/v2?api_key=c9a97adf-7909-444a-bf9e-1471210c4770&sign=4d19bc9e7d84706dd45aa2e393675a7b775fe920751f769aeac75cf7b94c2b4bad4612534343437890e0ee2df769a227aa3f0d4d0db9305a67fb78ec314526bc&symbol=ethbtc&start-date=2018-05-11&end-date=2018-05-12&direct=next&size=10&time=1525515995127
+GET https://api.cointiger.com/api/v2/order/match_results/v2?api_key=c9a97adf-7909-444a-bf9e-1471210c4770&sign=4d19bc9e7d84706dd45aa2e393675a7b775fe920751f769aeac75cf7b94c2b4bad4612534343437890e0ee2df769a227aa3f0d4d0db9305a67fb78ec314526bc&symbol=ethbtc&start-date=2018-05-11&end-date=2018-05-12&direct=next&size=10&time=1525515995127&start-date=2019-07-20&end-date=2019-07-22
 ```
 
 response data
