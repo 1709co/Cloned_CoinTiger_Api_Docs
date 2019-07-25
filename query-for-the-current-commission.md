@@ -21,21 +21,21 @@ Response Data:
 
 
 
-| parameter subject | must or no | type   | describtion       | ranges                                                       |
-| ----------------- | ---------- | ------ | ----------------- | ------------------------------------------------------------ |
-| id                | true       | string | order ID          |                                                              |
-| user_id           | true       | long   | account ID        |                                                              |
-| volume            | true       | string | order amount      |                                                              |
-| deal_volume       | false      | string | deal amount       |                                                              |
-| deal_money        | true       | string | deal capital      |                                                              |
-| fee               | true       | string | fees              |                                                              |
-| price             | true       | string | price             |                                                              |
-| status            | false      | string | order status      | 1 ：new order,  3 ：partial deal  |
-| type              | true       | string | order type        | buy-market, sell-market, buy-limit, sell-limit               |
-| source            | true       | string | order source      | api                                                          |
-| symbol            | true       | string | trading pairs     | btcbitcny, eoseth, ethbtc ...                                |
-| ctime             | true       | string | create order time |                                                              |
-| mtime             | true       | string | last deal         |                                                              |
+| parameter subject | must or no | type   | describtion       | ranges                                         |
+| ----------------- | ---------- | ------ | ----------------- | ---------------------------------------------- |
+| id                | true       | string | order ID          |                                                |
+| user_id           | true       | long   | account ID        |                                                |
+| volume            | true       | string | order amount      |                                                |
+| deal_volume       | false      | string | deal amount       |                                                |
+| deal_money        | true       | string | deal capital      |                                                |
+| fee               | true       | string | fees              |                                                |
+| price             | true       | string | price             |                                                |
+| status            | false      | string | order status      | 1 ：new order, 3 ：partial deal ,              |
+| type              | true       | string | order type        | buy-market, sell-market, buy-limit, sell-limit |
+| source            | true       | string | order source      | api                                            |
+| symbol            | true       | string | trading pairs     | btcbitcny, eoseth, ethbtc ...                  |
+| ctime             | true       | string | create order time |                                                |
+| mtime             | true       | string | last deal         |                                                |
 响应例子: (example)
 
 ```
