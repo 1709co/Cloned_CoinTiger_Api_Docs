@@ -30,7 +30,7 @@ Response Data:
 | deal_money        | true       | string | deal capital      |                                                              |
 | fee               | true       | string | fees              |                                                              |
 | price             | true       | string | price             |                                                              |
-| status            | false      | string | order status      | 1 ：new order, 2：compeletely deal,  3 ：partial deal ,  4：cancelled，6：abnormal order |
+| status            | false      | string | order status      | 1 ：new order,  3 ：partial deal  |
 | type              | true       | string | order type        | buy-market, sell-market, buy-limit, sell-limit               |
 | source            | true       | string | order source      | api                                                          |
 | symbol            | true       | string | trading pairs     | btcbitcny, eoseth, ethbtc ...                                |
