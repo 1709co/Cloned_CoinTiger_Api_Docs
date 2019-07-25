@@ -10,7 +10,7 @@ Request parameters
 | states            | true        | string | query for oerder types combinatio，use for segment           |                                               | filled ,  canceled，expired        |
 | from              | false       | string | query for start ID order ID                                  |                                               |                                    |
 | direct            | false       | string | query direction                                              | next                                          | prev (forewards)，next (backwards) |
-| size              | false       | string | query for record amount                                      | 50                                            | query 50 record maximum at once    |
+| size              | false       | string | query for record amount                                      | 100                                            | query 1000 record maximum at once    |
 | time              | true        | string | current timestamp                                            |                                               |                                    |
 
 request parameters：example  (can not be used directly, need to replace your own parameters)
