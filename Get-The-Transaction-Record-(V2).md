@@ -12,6 +12,8 @@ Request parameters
 | direct            | false       | string | query direction                     | default:next                  | prev ：forward，next：backwards                              |
 | size              | false       | string | query the record amount             | default：50                   | query 50 record maximum at once                              |
 | time              | true        | string | current timestamp                   |                               |                                                              |
+
+
 request parameters：example (can not be used directly, need to replace your own parameters)
 
 ```
@@ -20,18 +22,18 @@ GET https://api.cointiger.com/api/v2/order/match_results/v2?api_key=c9a97adf-790
 
 response data
 
-| parameter subject | must or not | type | describtionranges |                                                      |
-| -------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-| id       | true     | long     | match ID  |                                                              |
-| price    | true     | string   | commission price |                                                              |
-| volume   | true     | string   | transaction amount   |                                                            |
-| fee      | true     | string   | fees |                                                             |
-| orderId  | true     | long     | order ID |                                                              |
-| symbol   | true     | string   | trading pairs  | btcbitcny, bchbtc, eoseth ...                                |
-| type     | true     | string   | entrust type | buy-market, sell-market, buy-limit, sell-limit |
-| status   | true     | string   | order status | 1 ：new order, 2：compeletely deal,  3 ：partial deal,  4：revoked，6：abnormal order |
-| mtime    | true     | string   | deal time |                                                              |
-| source   | true     | string   | order source | api                                                          |
+| parameter subject | must or not | type   | describtionranges  |                                                              |
+| ----------------- | ----------- | ------ | ------------------ | ------------------------------------------------------------ |
+| id                | true        | long   | match ID           |                                                              |
+| price             | true        | string | commission price   |                                                              |
+| volume            | true        | string | transaction amount |                                                              |
+| fee               | true        | string | fees               |                                                              |
+| orderId           | true        | long   | order ID           |                                                              |
+| symbol            | true        | string | trading pairs      | btcbitcny, bchbtc, eoseth ...                                |
+| type              | true        | string | entrust type       | buy-market, sell-market, buy-limit, sell-limit               |
+| status            | true        | string | order status       | 1 ：new order, 2：compeletely deal,  3 ：partial deal,  4：revoked，6：abnormal order |
+| mtime             | true        | string | deal time          |                                                              |
+| source            | true        | string | order source       | api                                                          |
 
 examples
 ```
