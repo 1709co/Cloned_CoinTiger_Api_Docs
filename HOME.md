@@ -41,7 +41,13 @@ Websocket
 
 For every IP, API's access limit is 6times/second.
 
- 
+##### API Trading Restriction：
+
+1. If a user has a huge amount of order cancellations(≥300 orders per day) detected by our system, CoinTiger will restrict the user's API orders.
+
+2. Your assets will be frozen by CoinTiger if your account has malicious actions.
+
+3. CoinTiger reserves the right to freeze suspicious users' account at all times and to pursue their legal responsibility.
 
 #### API Request Step
 
